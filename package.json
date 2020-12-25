@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-language-detector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulAlexSerban/NodeJS-Language-Detector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulAlexSerban/NodeJS-Language-Detector/issues"
+  },
+  "homepage": "https://github.com/paulAlexSerban/NodeJS-Language-Detector#readme",
+  "dependencies": {
+    "franc": "^5.0.0",
+    "langs": "^2.0.0"
+  }
+}
